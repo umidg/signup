@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/signuphost/static/css/main.1bccf3f4.chunk.css",
+    "main.js": "/signuphost/static/js/main.80a7b24e.chunk.js",
+    "main.js.map": "/signuphost/static/js/main.80a7b24e.chunk.js.map",
+    "runtime-main.js": "/signuphost/static/js/runtime-main.8e5fcaab.js",
+    "runtime-main.js.map": "/signuphost/static/js/runtime-main.8e5fcaab.js.map",
+    "static/js/2.4be21b3e.chunk.js": "/signuphost/static/js/2.4be21b3e.chunk.js",
+    "static/js/2.4be21b3e.chunk.js.map": "/signuphost/static/js/2.4be21b3e.chunk.js.map",
+    "index.html": "/signuphost/index.html",
+    "precache-manifest.2fd24a6471d4df8f5a2d74e87d881486.js": "/signuphost/precache-manifest.2fd24a6471d4df8f5a2d74e87d881486.js",
+    "service-worker.js": "/signuphost/service-worker.js",
+    "static/css/main.1bccf3f4.chunk.css.map": "/signuphost/static/css/main.1bccf3f4.chunk.css.map",
+    "static/js/2.4be21b3e.chunk.js.LICENSE.txt": "/signuphost/static/js/2.4be21b3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e5fcaab.js",
+    "static/js/2.4be21b3e.chunk.js",
+    "static/css/main.1bccf3f4.chunk.css",
+    "static/js/main.80a7b24e.chunk.js"
+  ]
+}
