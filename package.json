@@ -2,7 +2,7 @@
   "name": "signup",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://warlord9808.github.io/signuphost",
+  "homepage": "http://warlord9808.github.io/signup",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
